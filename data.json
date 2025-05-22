@@ -1,376 +1,376 @@
 {
-    "root": {
-        "props": {
-            "title": "test"
+  "root": {
+    "props": {
+      "title": "test"
+    }
+  },
+  "zones": {},
+  "content": [
+    {
+      "type": "Hero1",
+      "props": {
+        "id": "Hero1-793ea387-eb75-44f5-b59e-ae54ef718d25",
+        "title": "Unlock Growth with Smart Analytics",
+        "tagline": "SOCIAL MEDIA INSIGHTS",
+        "description": "Discover deep social media analytics that go beyond surface metrics. Track real audience engagement, identify trending content, and optimize campaigns with AI-powered insights designed to amplify your brand’s impact faster and smarter.",
+        "highlightedWord": "Analytics",
+        "primaryButtonDetails": {
+          "primaryButtonLink": "#get-started",
+          "primaryButtonText": "Analyze Your Social Impact"
+        },
+        "secondaryButtonDetails": {
+          "secondaryButtonLink": "#features",
+          "secondaryButtonText": "Explore Features",
+          "showSecondaryButton": false
         }
+      }
     },
-    "zones": {},
-    "content": [
-        {
-            "type": "Hero1",
-            "props": {
-                "id": "Hero1-793ea387-eb75-44f5-b59e-ae54ef718d25",
-                "title": "Create Impactful Videos with AI",
-                "tagline": "AI VIDEO CREATION",
-                "description": "Harness the power of AI to effortlessly produce captivating social media videos that drive engagement and grow your brand. Customize professional styles, optimize for every platform, and turn ideas into scroll-stopping content in minutes—no editing experience needed.",
-                "highlightedWord": "Impactful",
-                "primaryButtonDetails": {
-                    "primaryButtonLink": "#get-started",
-                    "primaryButtonText": "Start Creating Now"
-                },
-                "secondaryButtonDetails": {
-                    "secondaryButtonLink": "#features",
-                    "secondaryButtonText": "Discover Features",
-                    "showSecondaryButton": false
-                }
+    {
+      "type": "ProblemBlock1",
+      "props": {
+        "id": "ProblemBlock1-5ea79086-d665-482d-88a3-cb2b0045dc05",
+        "highlightedWord": "Insights",
+        "comparisonHeadline": "Actionable Insights vs Guesswork Reporting",
+        "visualBuilderDetails": {
+          "visualBuilderTitle": "Analyze with SocialGauge",
+          "visualBuilderAdvantages": [
+            {
+              "advantageIcon": "ClipboardList",
+              "advantageTitle": "Real-Time Performance Tracking",
+              "advantageDescription": "Monitor social media metrics instantly across all platforms with precise, easy-to-read dashboards designed to keep you ahead of trends."
+            },
+            {
+              "advantageIcon": "Timer",
+              "advantageTitle": "Automated Reporting & Alerts",
+              "advantageDescription": "Save time with scheduled reports and smart notifications that flag key changes, so you never miss a critical moment or opportunity."
+            },
+            {
+              "advantageIcon": "DollarSign",
+              "advantageTitle": "Optimize ROI with Deep Analytics",
+              "advantageDescription": "Uncover hidden growth opportunities by analyzing audience behavior and campaign impact to maximize engagement and ad spend efficiency."
             }
+          ]
         },
-        {
-            "type": "ProblemBlock1",
-            "props": {
-                "id": "ProblemBlock1-5ea79086-d665-482d-88a3-cb2b0045dc05",
-                "highlightedWord": "Creation",
-                "comparisonHeadline": "AI-Powered Video Creation vs Manual Editing Hassles",
-                "visualBuilderDetails": {
-                    "visualBuilderTitle": "Create with VidBot",
-                    "visualBuilderAdvantages": [
-                        {
-                            "advantageIcon": "ClipboardList",
-                            "advantageTitle": "Instant Social-Ready Videos",
-                            "advantageDescription": "Produce stunning, optimized videos for Instagram, TikTok, Facebook and beyond in minutes, powered by smart AI templates designed for maximum platform impact."
-                        },
-                        {
-                            "advantageIcon": "Timer",
-                            "advantageTitle": "Seamless Automation",
-                            "advantageDescription": "Effortlessly automate editing and tailor content to your audience with intelligent tools that save time and keep your social feed dynamic daily."
-                        },
-                        {
-                            "advantageIcon": "DollarSign",
-                            "advantageTitle": "Boost Engagement & Growth",
-                            "advantageDescription": "Elevate your brand’s reach with captivating videos engineered to amplify shares, increase followers, and accelerate conversions faster than traditional video methods."
-                        }
-                    ]
-                },
-                "comparisonSubheadline": "Discover how VidBot transforms social video creation with lightning-fast AI tools that align perfectly with your brand’s voice",
-                "traditionalDevDetails": {
-                    "traditionalDevTitle": "The Struggles of Classic Video Production",
-                    "traditionalDevDrawbacks": [
-                        {
-                            "drawbackText": "Cumbersome, time-intensive editing"
-                        },
-                        {
-                            "drawbackText": "Expensive professional editing fees"
-                        },
-                        {
-                            "drawbackText": "Inconsistent messaging and branding"
-                        },
-                        {
-                            "drawbackText": "Scaling content output feels impossible"
-                        },
-                        {
-                            "drawbackText": "Slow turnaround stifles social momentum"
-                        },
-                        {
-                            "drawbackText": "Hard to adapt quickly to trending content"
-                        }
-                    ]
-                },
-                "callToActionButtonLink": "#get-started",
-                "callToActionButtonText": "Create Viral Videos Today",
-                "closingCallToActionText": "Join thousands revolutionizing their social presence with VidBot’s AI-powered video generator designed for creators like you"
+        "comparisonSubheadline": "Discover how SocialGauge transforms raw data into clear strategies with AI-powered analytics tailored for social success",
+        "traditionalDevDetails": {
+          "traditionalDevTitle": "Common Analytics Challenges",
+          "traditionalDevDrawbacks": [
+            {
+              "drawbackText": "Manual data consolidation from multiple platforms"
+            },
+            {
+              "drawbackText": "Outdated reports lacking real-time insights"
+            },
+            {
+              "drawbackText": "Complex interfaces confusing non-experts"
+            },
+            {
+              "drawbackText": "Inability to track true campaign ROI easily"
+            },
+            {
+              "drawbackText": "Slow response times to social shifts"
+            },
+            {
+              "drawbackText": "Limited customization for unique business goals"
             }
+          ]
         },
-        {
-            "type": "Solution1",
-            "props": {
-                "id": "Solution1-acf2f781-7372-4cd9-bbea-1c4b7414d373",
-                "ctaButton": {
-                    "buttonLink": "#try-for-free",
-                    "buttonText": "Make Your First Video Now",
-                    "showButton": true
-                },
-                "headerContent": {
-                    "mainTitle": "Create Videos That Captivate",
-                    "description": "Instantly produce eye-catching social media videos with AI precision tailored to your brand. No experience needed—just powerful content that connects and converts."
-                },
-                "solutionItems": [
-                    {
-                        "solutionTitle": "Dynamic Templates",
-                        "solutionSubTitle": "Custom videos in moments.",
-                        "solutionDescription": "Access a diverse collection of AI-enhanced templates engineered to maximize engagement while reflecting your unique style—launch viral-ready content effortlessly."
-                    },
-                    {
-                        "solutionTitle": "AI-Driven Editing",
-                        "solutionSubTitle": "Flawless, pro-quality edits.",
-                        "solutionDescription": "Leverage smart editing tools that automatically add seamless transitions, perfect cuts, and vibrant effects—making every video look polished and professional without the hassle."
-                    },
-                    {
-                        "solutionTitle": "Social Media Optimized",
-                        "solutionSubTitle": "Perfect fit for every platform.",
-                        "solutionDescription": "Export videos perfectly sized and formatted for Instagram, TikTok, Facebook, YouTube, and more—eliminate manual adjustments and reach your audience with precision."
-                    }
-                ]
-            }
+        "callToActionButtonLink": "#get-started",
+        "callToActionButtonText": "Unlock Your Social Data Now",
+        "closingCallToActionText": "Join thousands of marketers elevating their strategy with SocialGauge’s powerful social media analytics platform"
+      }
+    },
+    {
+      "type": "Solution1",
+      "props": {
+        "id": "Solution1-acf2f781-7372-4cd9-bbea-1c4b7414d373",
+        "ctaButton": {
+          "buttonLink": "#get-started",
+          "buttonText": "Analyze Your Social Impact",
+          "showButton": true
         },
-        {
-            "type": "SocialProof1",
-            "props": {
-                "id": "SocialProof1-b7a2f0f1-c8c2-4599-ac15-b362e68ea90c",
-                "title": "Loved by Social Creators and Brands",
-                "description": "Hear from our users making waves on social media:",
-                "testimonials": [
-                    {
-                        "quote": "Since switching to this AI Video Generator, our engagement skyrocketed and content creation is effortless.",
-                        "title": "Social Media Manager, BrightBrand",
-                        "author": "Jack Sibire",
-                        "rating": 5,
-                        "avatarId": 4,
-                        "highlightedText": "engagement skyrocketed"
-                    },
-                    {
-                        "quote": "This tool transformed our video strategy—fast, intuitive, and perfect for social platforms.",
-                        "title": "Content Director, Mousio",
-                        "author": "Adele Mouse",
-                        "rating": 5,
-                        "avatarId": 5,
-                        "highlightedText": "transformed our video strategy"
-                    },
-                    {
-                        "quote": "The AI-driven features save us hours while boosting video quality unlike anything else we've tried.",
-                        "title": "CTO, Clockwork",
-                        "author": "Ben Clock",
-                        "rating": 5,
-                        "avatarId": 6,
-                        "highlightedText": "AI-driven features save us hours"
-                    }
-                ],
-                "titleHighlightedText": "2,047+ creators"
-            }
+        "headerContent": {
+          "mainTitle": "Unlock Social Insights",
+          "description": "Leverage powerful AI-driven analytics to track, understand, and amplify your social media performance. Tailored reports and real-time data help you outsmart the competition and engage your audience like never before."
         },
-        {
-            "type": "Features1",
-            "props": {
-                "id": "Features1-03643de3-fc61-4dd1-b1c5-47c573dea47c",
-                "label": "- FEATURE 1",
-                "title": "Create stunning videos instantly with ",
-                "button": {
-                    "link": "#try-for-free",
-                    "show": true,
-                    "text": "Get Started Free"
-                },
-                "description": "Our AI-powered video generator crafts eye-catching social media content in seconds, using smart templates and real-time customization to boost your engagement and save time.",
-                "titleHighlightedText": "AI"
-            }
+        "solutionItems": [
+          {
+            "solutionTitle": "Real-Time Monitoring",
+            "solutionSubTitle": "Stay ahead with instant updates.",
+            "solutionDescription": "Monitor your brand mentions, trends, and competitor activity across all major platforms instantly to make data-driven decisions before the next move."
+          },
+          {
+            "solutionTitle": "Deep Engagement Metrics",
+            "solutionSubTitle": "Understand what truly resonates.",
+            "solutionDescription": "Analyze reach, clicks, sentiment, and audience demographics with precision to craft content that drives meaningful connections and maximizes your ROI."
+          },
+          {
+            "solutionTitle": "Customizable Dashboards",
+            "solutionSubTitle": "Analytics your way.",
+            "solutionDescription": "Design personalized dashboards that focus on the KPIs that matter most to your brand, enabling quick insights and actionable strategies at a glance."
+          }
+        ]
+      }
+    },
+    {
+      "type": "SocialProof1",
+      "props": {
+        "id": "SocialProof1-b7a2f0f1-c8c2-4599-ac15-b362e68ea90c",
+        "title": "Trusted by ",
+        "description": "Hear from our power users:",
+        "testimonials": [
+          {
+            "quote": "Since adopting this analytics tool, our engagement metrics have soared beyond expectations.",
+            "title": "Marketing Director, TrendBuzz",
+            "author": "Jack Sibire",
+            "rating": 5,
+            "avatarId": 4,
+            "highlightedText": "engagement metrics have soared"
+          },
+          {
+            "quote": "This platform transformed how we understand our audience; I wholeheartedly recommend it.",
+            "title": "Social Media Manager, Mousio",
+            "author": "Adele Mouse",
+            "rating": 5,
+            "avatarId": 5,
+            "highlightedText": "wholeheartedly recommend"
+          },
+          {
+            "quote": "Our strategy is now data-driven thanks to this intuitive and insightful tool.",
+            "title": "CTO, Clockwork",
+            "author": "Ben Clock",
+            "rating": 5,
+            "avatarId": 6,
+            "highlightedText": "data-driven"
+          }
+        ],
+        "titleHighlightedText": "2,047 brands"
+      }
+    },
+    {
+      "type": "Features1",
+      "props": {
+        "id": "Features1-03643de3-fc61-4dd1-b1c5-47c573dea47c",
+        "label": "- FEATURE 1",
+        "title": "Unlock insights with ",
+        "button": {
+          "link": "#try-for-free",
+          "show": true,
+          "text": "Get started free"
         },
-        {
-            "type": "Features2",
-            "props": {
-                "id": "Features2-40e2e422-d254-4f8c-897b-bc0ea03cb1bd",
-                "label": "- FEATURE 2",
-                "title": "Create stunning videos the smart ",
-                "button": {
-                    "link": "#try-for-free",
-                    "show": true,
-                    "text": "Generate Your Video"
-                },
-                "description": "Our AI-powered video generator transforms your social media content with effortless automation, delivering eye-catching videos that boost engagement and save you hours of editing time.",
-                "titleHighlightedText": "way"
-            }
+        "description": "Discover powerful social media analytics that track, measure, and optimize your performance across all platforms in real time. Our AI-driven dashboards deliver actionable insights to boost engagement, grow your audience, and maximize ROI effortlessly.",
+        "titleHighlightedText": "INSIGHTS"
+      }
+    },
+    {
+      "type": "Features2",
+      "props": {
+        "id": "Features2-40e2e422-d254-4f8c-897b-bc0ea03cb1bd",
+        "label": "- FEATURE 2",
+        "title": "Insights that unlock growth",
+        "button": {
+          "link": "#try-for-free",
+          "show": true,
+          "text": "Get Your Free Demo"
         },
-        {
-            "type": "Pricing1",
-            "props": {
-                "id": "Pricing1-c0155bec-0c50-4004-aeb5-7922d7fc6789",
-                "plans": [
-                    {
-                        "cta": "Try Basic Plan Now",
-                        "name": "Basic",
-                        "badge": "",
-                        "price": 9,
-                        "featured": false,
-                        "description": "Perfect for solo creators and new social media users",
-                        "featureFlags": [
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": false
-                            },
-                            {
-                                "value": false
-                            },
-                            {
-                                "value": false
-                            }
-                        ]
-                    },
-                    {
-                        "cta": "Level Up with Pro",
-                        "name": "Pro",
-                        "badge": "Most Popular",
-                        "price": 19,
-                        "featured": true,
-                        "description": "Ideal for influencers and growing brands craving more features",
-                        "featureFlags": [
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": false
-                            }
-                        ]
-                    },
-                    {
-                        "cta": "Unlock Business Power",
-                        "name": "Business",
-                        "badge": "",
-                        "price": 99,
-                        "featured": false,
-                        "description": "Built for agencies and enterprises demanding full customization",
-                        "featureFlags": [
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            }
-                        ]
-                    }
-                ],
-                "title": "Simple Pricing",
-                "features": [
-                    {
-                        "value": "Unlimited video projects"
-                    },
-                    {
-                        "value": "24/7 expert support"
-                    },
-                    {
-                        "value": "Brandable custom domains"
-                    },
-                    {
-                        "value": "In-depth AI analytics"
-                    }
-                ],
-                "description": "Transparent pricing that fits every creator’s budget without compromising power."
-            }
+        "description": "Our Social Media Analytics Tool delivers real-time, actionable insights that help you track engagement, optimize campaigns, and beat the competition with intelligent data visualization and automated reporting.",
+        "titleHighlightedText": "growth"
+      }
+    },
+    {
+      "type": "Pricing1",
+      "props": {
+        "id": "Pricing1-c0155bec-0c50-4004-aeb5-7922d7fc6789",
+        "plans": [
+          {
+            "cta": "Start Basic Insights",
+            "name": "Basic",
+            "badge": "",
+            "price": 9,
+            "featured": false,
+            "description": "Ideal for individuals and small teams to track social media with ease",
+            "featureFlags": [
+              {
+                "value": true
+              },
+              {
+                "value": false
+              },
+              {
+                "value": false
+              },
+              {
+                "value": false
+              }
+            ]
+          },
+          {
+            "cta": "Unlock Pro Analytics",
+            "name": "Pro",
+            "badge": "Most Popular",
+            "price": 19,
+            "featured": true,
+            "description": "Designed for startups and growing brands needing deeper social insights",
+            "featureFlags": [
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": false
+              }
+            ]
+          },
+          {
+            "cta": "Explore Business Plan",
+            "name": "Business",
+            "badge": "",
+            "price": 99,
+            "featured": false,
+            "description": "Perfect for enterprises requiring full-scale analytics and custom solutions",
+            "featureFlags": [
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": true
+              }
+            ]
+          }
+        ],
+        "title": "Simple Pricing for Smarter Social",
+        "features": [
+          {
+            "value": "Unlimited social accounts"
+          },
+          {
+            "value": "24/7 expert support"
+          },
+          {
+            "value": "Custom branded reports"
+          },
+          {
+            "value": "Real-time advanced analytics"
+          }
+        ],
+        "description": "Flexible plans built to deliver powerful social media insights at every stage—from solo creators to large enterprises."
+      }
+    },
+    {
+      "type": "FAQ1",
+      "props": {
+        "id": "FAQ1-0b107a8f-6fbf-4902-a384-280bc30c5097",
+        "faqs": [
+          {
+            "answer": "Our advanced AI-powered platform connects seamlessly with your social profiles to analyze real-time data, providing actionable insights that boost engagement and growth immediately.",
+            "question": "How does this work?"
+          },
+          {
+            "answer": "Experience rapid insights, streamlined analytics, and data-driven strategies that empower your social media marketing to reach new audiences effortlessly.",
+            "question": "What are the benefits?"
+          },
+          {
+            "answer": "Not at all. Our intuitive dashboard requires zero technical skills, letting you set up and start monitoring your social media performance in just minutes.",
+            "question": "Is it difficult to use?"
+          },
+          {
+            "answer": "Definitely! Our flexible pricing adapts to your unique needs, whether you're a solo creator or an enterprise team. Reach out to customize your plan.",
+            "question": "Can I have custom pricing?"
+          },
+          {
+            "answer": "Absolutely — get started risk-free with our 14-day trial, no credit card needed, so you can explore all features with zero commitment.",
+            "question": "Is there trial version available?"
+          },
+          {
+            "answer": "Simply click the “Get Started” button at the top-right or visit our pricing page to select the perfect plan tailored for your social media goals.",
+            "question": "Where do I sign up?"
+          }
+        ],
+        "title": "Got Questions?"
+      }
+    },
+    {
+      "type": "About1",
+      "props": {
+        "id": "About1-f69c71a0-2c9a-4cbb-81b4-0e2aff409c85",
+        "label": "- DISCOVER OUR ADVANTAGE",
+        "outro": "Experience the future of social media insights with our powerful analytics tool. Dive into your data, optimize your strategy, and watch your engagement soar! 🚀",
+        "heading": "Meet Your Social Media Partner",
+        "subtitle": "Data that drives smarter decisions.",
+        "paragraphs": [
+          {
+            "value": "Our Social Media Analytics Tool delivers real-time, actionable insights across all your channels, helping you understand audience behavior and optimize your content strategy like never before."
+          },
+          {
+            "value": "Marketers and brands often ask:"
+          },
+          {
+            "value": "- How can I track campaign performance effortlessly?\n- Which content truly connects with my audience?\n- Where should I focus my social efforts for maximum impact?"
+          },
+          {
+            "value": "Our solution: Deep analytics combined with intuitive dashboards to empower every decision you make."
+          }
+        ],
+        "principles": [
+          {
+            "title": "Comprehensive Cross-Platform Tracking",
+            "description": "Monitor all your social channels in one place with seamless integration and unified reporting."
+          },
+          {
+            "title": "Insightful Audience Analytics",
+            "description": "Discover who your followers are, what they engage with, and when to reach them for maximum impact."
+          },
+          {
+            "title": "Actionable Performance Metrics",
+            "description": "Identify top-performing content and campaigns with clear data visualizations that fuel growth."
+          }
+        ]
+      }
+    },
+    {
+      "type": "CTA1",
+      "props": {
+        "id": "CTA1-899ad685-070f-4415-9413-81273bea7701",
+        "button": {
+          "link": "#start-trial",
+          "show": true,
+          "text": "Explore Your Social Insights"
         },
-        {
-            "type": "FAQ1",
-            "props": {
-                "id": "FAQ1-0b107a8f-6fbf-4902-a384-280bc30c5097",
-                "faqs": [
-                    {
-                        "question": "How does the AI video generator work?",
-                        "answer": "Our AI-powered tool transforms your ideas into stunning social media videos in minutes, using advanced algorithms and customizable templates—no experience needed."
-                    },
-                    {
-                        "question": "What benefits can I expect?",
-                        "answer": "Create eye-catching videos faster, boost your social media engagement, save on production costs, and effortlessly scale your content strategy with our smart automation."
-                    },
-                    {
-                        "question": "Is it beginner-friendly?",
-                        "answer": "Definitely! Our intuitive interface lets anyone produce professional-quality videos without any editing skills or technical know-how."
-                    },
-                    {
-                        "question": "Can I get custom features or pricing?",
-                        "answer": "Yes! Reach out to our team for personalized plans tailored to your unique content goals and volume requirements."
-                    },
-                    {
-                        "question": "Is there a free trial available?",
-                        "answer": "Absolutely. Try all features free for 14 days with no credit card required and cancel anytime if it’s not the perfect fit."
-                    },
-                    {
-                        "question": "How do I get started?",
-                        "answer": "Click the 'Create Video' button on the top right or visit our pricing page to pick the best plan and start generating videos instantly."
-                    }
-                ],
-                "title": "FAQs"
-            }
-        },
-        {
-            "type": "About1",
-            "props": {
-                "id": "About1-f69c71a0-2c9a-4cbb-81b4-0e2aff409c85",
-                "label": "- DISCOVER OUR AI",
-                "outro": "Join thousands of creators transforming social media with effortless, stunning videos. Experience the future of video creation today! 🚀",
-                "heading": "Meet Your AI Video Partner",
-                "subtitle": "Transform your social media videos instantly.",
-                "paragraphs": [
-                    {
-                        "value": "Our AI Video Generator tool empowers you to create eye-catching social media videos in minutes, no editing skills needed."
-                    },
-                    {
-                        "value": "Content creators ask us:"
-                    },
-                    {
-                        "value": "- How can I save time on video production?\n- How do I make engaging videos that get noticed?"
-                    },
-                    {
-                        "value": "Our solution: smart automation paired with creative control for videos that stand out and drive engagement."
-                    }
-                ],
-                "principles": [
-                    {
-                        "title": "Effortless video creation",
-                        "description": "AI-driven templates and smart editing to produce professional videos in seconds"
-                    },
-                    {
-                        "title": "Tailored for social media",
-                        "description": "Optimized formats and styles designed to boost reach and engagement across platforms"
-                    },
-                    {
-                        "title": "Powerful yet simple",
-                        "description": "User-friendly interface with advanced AI features for creators at any skill level"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "CTA1",
-            "props": {
-                "id": "CTA1-899ad685-070f-4415-9413-81273bea7701",
-                "button": {
-                    "link": "#start-trial",
-                    "show": true,
-                    "text": "Create Stunning Videos Now"
-                },
-                "avatars": [
-                    {
-                        "avatarId": 32
-                    },
-                    {
-                        "avatarId": 44
-                    },
-                    {
-                        "avatarId": 65
-                    },
-                    {
-                        "avatarId": 75
-                    },
-                    {
-                        "avatarId": 12
-                    },
-                    {
-                        "avatarId": 68
-                    }
-                ],
-                "heading": "Elevate Your Social Reach",
-                "description": "Transform your social media with AI-powered video creation that’s fast, effortless, and tailored to captivate your audience.",
-                "foundersCount": 3582
-            }
-        }
-    ]
+        "avatars": [
+          {
+            "avatarId": 32
+          },
+          {
+            "avatarId": 44
+          },
+          {
+            "avatarId": 65
+          },
+          {
+            "avatarId": 75
+          },
+          {
+            "avatarId": 12
+          },
+          {
+            "avatarId": 68
+          }
+        ],
+        "heading": "Unlock Social Success",
+        "description": "Discover deep audience insights and track real-time engagement with our cutting-edge social media analytics tool designed to elevate your brand's impact and growth.",
+        "foundersCount": 3582
+      }
+    }
+  ]
 }
